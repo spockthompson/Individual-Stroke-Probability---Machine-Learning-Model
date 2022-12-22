@@ -30,7 +30,7 @@ I would say this is the best model so far, I know there is a better one to do th
 
 ## Recommendations:
 
-More trails with other models and possibly more data and categories to make a richer data set.
+More trials with other models and possibly more data and categories to make a richer data set.
 Always can improve models.
 
 ༼ つ ◕_◕ ༽つ
