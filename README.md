@@ -1,4 +1,4 @@
-#Individual Stroke Probability - Machine Learning Model
+# Individual Stroke Probability - Machine Learning Model
 ## This data set uses key features to predict the probability that an individual with specific characteristics is at risk of stroke.
 
 **Scotty Thomason**: 
