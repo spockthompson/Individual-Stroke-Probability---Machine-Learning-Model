@@ -1,54 +1,37 @@
-# Project-2-Machine-Learning
+#Individual Stroke Probability - Machine Learning Model
+## This data set uses key features to predict the probability that an individual with specific characteristics is at risk of stroke.
 
-# Title that recommends an action
-## Subtitle describing the analysis 
+**Scotty Thomason**: 
 
-**Author**: 
+### Predictions of an individuals probability/or risk of stroke :
 
-### Business problem:
-
-Here is where you state the business problem you were trying to solve
+In a situation were we can potentially determine if a patient is at risk of stroke simply by recording a few characteristics of their overall general health and specific habits. Medical institutions could pro-activly help prevent strokes by providing medications or daily routines and better understand why they occur in differnet instances.
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+(https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- Cleaning of the original data
+- Appying different models on training data
+- Evaluating scores
+- Final model creation and score
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
-
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
-
-> Sentence about visualization.
-
-#### Visual 2 Title
-
 ## Model
 
-Describe your final model
+Final model was a K-nearest neighbors algorithm with PCA
 
-Report the most important metrics
+Even thought our data set did not have a very high-demention, the KNN with PCA gave the best score overall at 94%
+I would say this is the best model so far, I know there is a better one to do these predictions and this may be updated in the furture. As for now the Final model of KNN with PCA will do.
 
-Refer to the metrics to describe how well the model would solve the business problem
+
 
 ## Recommendations:
 
-More of your own text here
+More trails with other models and possibly more data and categories to make a richer data set.
+Always can improve models.
 
-
-## Limitations & Next Steps
-
-More of your own text here
-
-
-### For further information
-
-
-For any additional questions, please contact **email**
+༼ つ ◕_◕ ༽つ
