@@ -18,7 +18,7 @@ In a situation were we can potentially determine if a patient is at risk of stro
 - Evaluating scores
 - Final model creation and score
 
-![]([/content/bar_plot.png](https://github.com/spockthompson/Individual-Stroke-Probability---Machine-Learning-Model/blob/main/bar_plot.png))
+![alt text]([http://url/to/img.png](https://github.com/spockthompson/Individual-Stroke-Probability---Machine-Learning-Model/blob/main/bar_plot.png))
 
 ## Results (Model)
 
