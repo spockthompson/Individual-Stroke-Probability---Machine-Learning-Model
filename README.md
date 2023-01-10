@@ -18,8 +18,9 @@ In a situation were we can potentially determine if a patient is at risk of stro
 - Evaluating scores
 - Final model creation and score
 
-## Results (Model)
+![](/content/bar_plot.png)
 
+## Results (Model)
 
 Final model was a K-nearest neighbors algorithm with PCA
 
