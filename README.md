@@ -14,7 +14,7 @@ In a situation were we can potentially determine if a patient is at risk of stro
 
 ## Methods
 - Cleaning of the original data
-- Appying different models on training data
+- Applying different models on training data
 - Evaluating scores
 - Final model creation and score
 
