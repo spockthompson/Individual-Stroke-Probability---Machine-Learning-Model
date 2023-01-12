@@ -5,7 +5,7 @@
 
 ### Predictions of an individuals probability/or risk of stroke :
 
-In a situation were we can potentially determine if a patient is at risk of stroke simply by recording a few characteristics of their overall general health and specific habits. Medical institutions could pro-activly help prevent strokes by providing medications or daily routines and better understand why they occur in differnet instances.
+In a situation were we can potentially determine if a patient is at risk of stroke simply by recording a few characteristics of their overall general health and specific habits. Medical institutions could pro-actively help prevent strokes by providing medications or daily routines and better understand why they occur in different instances.
 
 
 ### Data:
