@@ -25,8 +25,8 @@ In a situation were we can potentially determine if a patient is at risk of stro
 Final model was a K-nearest neighbors algorithm with PCA
 
 
-Even thought our data set did not have a very high-demention, the KNN with PCA gave the best score overall at 94%
-I would say this is the best model so far, I know there is a better one to do these predictions and this may be updated in the furture. As for now the Final model of KNN with PCA will do.
+Even though our data set did not have a very high-demension, the KNN with PCA gave the best score overall at 94%
+I would say this is the best model so far, I know there is a better one to do these predictions and this may be updated in the future. As for now the Final model of KNN with PCA will do.
 
 
 
